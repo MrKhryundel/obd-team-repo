@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "..",
+  srcDir: "./src",
   
   title: "KPI Forms",
   description: "A VitePress Site",
@@ -20,7 +20,7 @@ export default defineConfig({
           { text: 'Вступ', link: '/intro' },
 		  { text: 'Аналіз предметної області', link: '/docs/requirements/state-of-the-art' },
 		  { text: 'Призначення розроблюваної системи', link: '/appointment' },
-		  { text: 'Аналіз зацікавлених осіб для системи організації та управління опитуваннями експертів', link: '/interested_parties' },
+		  { text: 'Аналіз зацікавлених осіб для системи організації та управління опитуваннями експертів', link: '/docs/requirements/stakeholders-needs' },
 		  { text: 'Розробка загальної діаграми прецедентів', link: '/prētsedentiv'},
 		  { text: 'Реляційна схема', link: '/relational_schema'},  
 		  { text: 'UseCase', link: '/useCase'},
