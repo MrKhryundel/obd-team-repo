@@ -25,7 +25,7 @@ export default defineConfig({
 		  { text: 'Розробка загальної діаграми прецедентів', link: '/precedent'},
 		  { text: 'Реляційна схема', link: '/relational-schema'},  
 		  { text: 'UseCase', link: '/use-case'},
-		  { text: 'Бізнес модель та діаграма системи опитування', link: '/business_models'},
+		  { text: 'Бізнес модель та діаграма системи опитування', link: '/business-models'},
 		  { text: 'Реалізація інформаційного та програмного забезпечення', link: '/SQL' },
 		  { text: 'Реалізація об’єктно-реляційного відображення', link: '/implementation' }, 
 		  { text: 'Тестування працездатності системи', link: '/Test' },
