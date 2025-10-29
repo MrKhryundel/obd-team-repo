@@ -84,6 +84,7 @@ CREATE TABLE User (
   Name VARCHAR(100) NOT NULL,
   Email VARCHAR(255) UNIQUE NOT NULL,
   CreatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL
+  role VARCHAR(50) -- Student, AdminU, SysAdmin
 );
 
 -- Таблиця 2: Form (Форми/Опитування)
