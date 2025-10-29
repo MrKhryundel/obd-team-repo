@@ -5,6 +5,12 @@
   "scripts": {
     "./src/.vitepress/scripts:dev": "vitepress dev src\\.vitepress",
     "./src/.vitepress/scripts:build": "vitepress build src\\.vitepress",
-    "./src/.vitepress/scripts:preview": "vitepress preview src\\.vitepress"
+    "./src/.vitepress/scripts:preview": "vitepress preview src\\.vitepress",
+    "./.vitepress:dev": "vitepress dev",
+    "./.vitepress:build": "vitepress build",
+    "./.vitepress:preview": "vitepress preview",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   }
 }

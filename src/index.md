@@ -3,12 +3,23 @@
 layout: home
 
 hero:
-  name: "KPI Forms"
-  text: "OBD Team Project"
+  name: "KPI Form"
+  text: "A KPI Form"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Take a look
-      link: /take-a-look
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
+
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
