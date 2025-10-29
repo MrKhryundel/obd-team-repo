@@ -22,7 +22,7 @@ export default defineConfig({
 		  { text: 'Аналіз предметної області', link: '/docs/requirements/state-of-the-art' },
 		  { text: 'Призначення розроблюваної системи', link: '/appointment' },
 		  { text: 'Аналіз зацікавлених осіб для системи організації та управління опитуваннями експертів', link: '/docs/requirements/stakeholders-needs' },
-		  { text: 'Розробка загальної діаграми прецедентів', link: '/prētsedentiv'},
+		  { text: 'Розробка загальної діаграми прецедентів', link: '/precedent'},
 		  { text: 'Реляційна схема', link: '/relational-schema'},  
 		  { text: 'UseCase', link: '/use-case'},
 		  { text: 'Бізнес модель та діаграма системи опитування', link: '/business_models'},
