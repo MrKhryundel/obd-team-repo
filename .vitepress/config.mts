@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "./src",
+  base: "/obd-team-repo/"
   
   title: "KPI Forms",
   description: "A VitePress Site",
