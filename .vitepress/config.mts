@@ -23,7 +23,7 @@ export default defineConfig({
 		  { text: 'Призначення розроблюваної системи', link: '/appointment' },
 		  { text: 'Аналіз зацікавлених осіб для системи організації та управління опитуваннями експертів', link: '/docs/requirements/stakeholders-needs' },
 		  { text: 'Розробка загальної діаграми прецедентів', link: '/prētsedentiv'},
-		  { text: 'Реляційна схема', link: '/relational_schema'},  
+		  { text: 'Реляційна схема', link: '/relational-schema'},  
 		  { text: 'UseCase', link: '/use-case'},
 		  { text: 'Бізнес модель та діаграма системи опитування', link: '/business_models'},
 		  { text: 'Реалізація інформаційного та програмного забезпечення', link: '/SQL' },
