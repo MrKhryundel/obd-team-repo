@@ -104,7 +104,7 @@ CREATE INDEX idx_survey_owner ON Survey(owner_id);
 CREATE INDEX idx_response_user ON UserResponse(user_id);
 ```
 
-## 3. Огляд основних елементів реалізації
+## 2. Огляд основних елементів реалізації
 
 Ця деталізована реалізація для «KPI Forms» включає:
 * **Схему `KPI_Forms`** для ізоляції бази даних.

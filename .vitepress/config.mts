@@ -30,7 +30,7 @@ export default defineConfig({
 		  { text: 'Реалізація об’єктно-реляційного відображення', link: '/implementation' }, 
 		  { text: 'Тестування працездатності системи', link: '/testing' },
 		  { text: 'Висновки', link: '/vusnovki' },
-		  { text: 'Автори', link: '/autors' },
+		  { text: 'Автори', link: '/authors' },
         ]
       }
     ]
