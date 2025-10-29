@@ -24,7 +24,7 @@ export default defineConfig({
 		  { text: 'Аналіз зацікавлених осіб для системи організації та управління опитуваннями експертів', link: '/docs/requirements/stakeholders-needs' },
 		  { text: 'Розробка загальної діаграми прецедентів', link: '/prētsedentiv'},
 		  { text: 'Реляційна схема', link: '/relational_schema'},  
-		  { text: 'UseCase', link: '/useCase'},
+		  { text: 'UseCase', link: '/use-case'},
 		  { text: 'Бізнес модель та діаграма системи опитування', link: '/business_models'},
 		  { text: 'Реалізація інформаційного та програмного забезпечення', link: '/SQL' },
 		  { text: 'Реалізація об’єктно-реляційного відображення', link: '/implementation' }, 
