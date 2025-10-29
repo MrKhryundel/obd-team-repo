@@ -136,3 +136,6 @@ CREATE TABLE Answer (
   FOREIGN KEY (QuestionID) REFERENCES Question(QuestionID),
   FOREIGN KEY (OptionID) REFERENCES AnswerOption(OptionID)
 );
+```
+## Візуальна ER-діаграма
+![ER-diagram](./images/er-diagram.png)
