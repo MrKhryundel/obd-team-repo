@@ -276,4 +276,5 @@ Process finished with exit code 0
 
 Користувач був успішно доданий до бази даних proj.
 
-![result of execution](./image/result-of-execution.png)
+![result of execution](./images/result-of-execution.png)
+
